@@ -3,6 +3,8 @@ Estimates event studies with two treatments Use xt2treatments With STATA 19
 
 xthdidregress with two treatments Use xt2treatments With STATA 19
 
+https://www.youtube.com/watch?v=zlDFnJRMBXw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
